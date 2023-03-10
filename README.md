@@ -4,7 +4,7 @@ Obs: Este FED tem como objetivo realizar testes com a API Finance da Yahoo
 
 Instalação:
 - Clonar o projeto com o comando: git clone https://github.com/gerson-ferreira/crypto_investiment.git
-- Instalar as dependências: npm install
+- Instalar as dependências: npm install --force
 - Rodar aplicação: ng serve
 - Rodar testes unitários: ng test
 
