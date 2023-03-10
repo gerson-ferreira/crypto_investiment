@@ -1,0 +1,12 @@
+.chart-container {
+    position: relative;
+    height: 0;
+    padding-bottom: 41%;
+  }
+  
+  #lineChart {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }

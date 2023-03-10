@@ -1,0 +1,7 @@
+{
+  "/petr4": {
+    "target": "https://query1.finance.yahoo.com/v8/finance/chart/PETR4.SA?symbol=PETR4.SA&period1=1581217200&period2=1629774000&useYfid=true&interval=1d&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&region=US&crumb=YpSWg.LLUfO&corsDomain=finance.yahoo.com",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
