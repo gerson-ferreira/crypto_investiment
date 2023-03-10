@@ -14,6 +14,6 @@ Requisitos:
 -Package Manager: npm 9.6.0 
 
 
-![image](https://user-images.githubusercontent.com/39886488/224227979-5e7b2bdb-0e7b-48f2-a438-40aa56cabf38.png)
+![image](https://user-images.githubusercontent.com/39886488/224230016-c2a6decf-9c65-42a3-84b3-86ed5afe7ab8.png)
 
-![image](https://user-images.githubusercontent.com/39886488/224228022-e4e53779-b59e-4444-b381-0bb14383f0c4.png)
+![image](https://user-images.githubusercontent.com/39886488/224230067-ae94fac7-5869-455d-bce5-5cda10659acb.png)
